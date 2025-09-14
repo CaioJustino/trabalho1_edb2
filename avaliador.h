@@ -16,8 +16,8 @@ namespace Avaliador {
     };
 
     std::vector<Resultado> medirTempos(
-        std::function<void(std::vector<int>&)> algoritmo,
-        const std::vector<int>& tamanhos, int repeticoes);
+    std::function<void(std::vector<int>&)> algoritmo,
+    const std::vector<int>& tamanhos, int repeticoes, bool embaralhar = true);
 
     void compararComplexidades(const std::vector<Resultado>& resultados,
                                const std::string& nomeAlgoritmo);
