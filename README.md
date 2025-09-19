@@ -100,4 +100,5 @@ Melhor ajuste: O(n^2)
 ```
 
 <br>
-Discente: Bianca Piresm, Bruna Dantas e Caio Justino 
+Discente: Bianca Pires, Bruna Dantas e Caio Justino 
+
