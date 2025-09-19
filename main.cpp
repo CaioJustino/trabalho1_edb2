@@ -14,8 +14,9 @@ using namespace std;
 int main() {
     int repeticoes = 5;
 
+    // ---- Tamanho Máximo para testes: 10000 ----
     vector<int> tamanhos;
-    for (int n = 200; n <= 1600; n += 200) {
+    for (int n = 1000; n <= 10000; n += 1000) {
         tamanhos.push_back(n);
     }
 

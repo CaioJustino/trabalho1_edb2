@@ -2,7 +2,8 @@
 #include "buscaBinaria.h"
 
 /*
-    Algoritmo de Busca Binária
+    Algoritmo: Busca Binária.
+    Complexidade: O(log n).
 */
 int buscaBinaria(const std::vector<int>& arr, int x) {
     int l = 0, r = (int)arr.size() - 1;
