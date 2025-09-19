@@ -11,12 +11,30 @@ algoritmos ultilizados para este projeto:
 3. BubbleSort
 4. InsertionSort
 
-Para a plotagem, foi cirado um arquivo extra no colab para evitar conflitos na clonagem do diretório:
+### Tecnologias Utilizadas
+Para o código, foi utilizado a plataforma `VS code (IDE)`
+<br>
+Para a plotagem, foi cirado um arquivo extra no `Google Colab` para evitar conflitos na clonagem do diretório:
 
 ```
 https://colab.research.google.com/drive/17MxFa61Zyo2apfru1bi9ZCNg9pwPJymf?authuser=1
 ```
+
+Linaguagem utilizada para o código do projeto: `C++`
 <br>
+Linguagem utilizada para a plotagem no Google Colab: `Python`
+<br>
+
+Bibliotecas:
+1. iostream
+2. vector
+3. algorithm
+4. chrono
+5. cmath
+6. numeric
+7. fstream
+8. random
+9. filesystem
 
 ## Configuração e Instalação
 <br>
@@ -101,4 +119,5 @@ Melhor ajuste: O(n^2)
 
 <br>
 Discente: Bianca Pires, Bruna Dantas e Caio Justino 
+
 
