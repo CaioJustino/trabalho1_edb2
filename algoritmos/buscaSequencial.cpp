@@ -1,8 +1,9 @@
+// Imports
 #include "buscaSequencial.h"
 
 /*
-    Algoritmo de Busca Sequencial
-    Complexidade: O(n)
+    Algoritmo: Busca Sequencial.
+    Complexidade: O(n).
 */
 int buscaSequencial(const std::vector<int>& arr, int x) {
     for (size_t i = 0; i < arr.size(); i++) {

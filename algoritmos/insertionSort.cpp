@@ -1,8 +1,9 @@
+// Imports
 #include "insertionSort.h"
 
 /*
-    Algoritmo Insertion Sort
-    Complexidade: O(n^2)
+    Algoritmo: Insertion Sort.
+    Complexidade: O(n^2).
 */
 void insertionSort(std::vector<int>& arr) {
     for (size_t i = 1; i < arr.size(); i++) {
