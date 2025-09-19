@@ -22,14 +22,14 @@ A proposta é que o programa consiga coletar tempos de execução para diferente
 <br><br>
 
 ## 📚 Bibliotecas Utilizadas
-1. iostream
-2. vector
-3. algorithm
-4. chrono
-5. cmath
-6. numeric
-7. fstream
-8. random
+- `iostream`: entrada e saída de dados
+- `vector`: fornece a classe std::vector
+- `algorithm`: contém algoritmos prontos
+- `chrono`: usada na medição de tempo
+- `cmath`: fornece funções matemáticas
+- `numeric`: fornece funções numéricas
+- `fstream`: entrada e saída de arquivos
+- `random`: gera números aleatórios
 <br><br>
 
 ## ⚙️ Configuração e Instalação
@@ -116,6 +116,7 @@ Melhor ajuste: O(n^2)
 <br><br>
 
 Discentes: Bianca Pires, Bruna Dantas e Caio Justino
+
 
 
 
